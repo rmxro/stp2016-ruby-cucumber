@@ -107,6 +107,3 @@ DEPENDENCIES
   rspec (= 3.4.0)
   sauce_whisk (= 0.0.21)
   selenium-webdriver (= 2.52.0)
-
-BUNDLED WITH
-   1.10.6
